@@ -1,6 +1,10 @@
-# hyper-rename-tab
+# hyper-rename-tab [![npm version](https://img.shields.io/npm/v/hyper-rename-tab)](https://www.npmjs.com/package/hyper-rename-tab)
 
 Rename your hyper tabs ⌨️ 👀
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/19428358/65121720-61f3df80-d9f8-11e9-80d1-1c4d30e79ab9.gif" />
+</div>
 
 ## ⚙️ Install
 
