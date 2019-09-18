@@ -1,4 +1,5 @@
-# hyper-rename-tab [![npm version](https://img.shields.io/npm/v/hyper-rename-tab)](https://www.npmjs.com/package/hyper-rename-tab)
+# hyper-rename-tab [![npm version](https://img.shields.io/npm/v/hyper-rename-tab)](https://www.npmjs.com/package/hyper-rename-tab) [![npm downloads](https://img.shields.io/npm/dm/hyper-rename-tab)](https://www.npmjs.com/package/hyper-rename-tab) [![npm licence](https://img.shields.io/npm/l/hyper-rename-tab)](https://www.npmjs.com/package/hyper-rename-tab)
+
 
 Rename your hyper tabs ⌨️ 👀
 
